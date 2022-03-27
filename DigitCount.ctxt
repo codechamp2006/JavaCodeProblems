@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=DigitCount
+comment1.params=num
+comment1.target=int\ countDigits(int)
+numComments=2

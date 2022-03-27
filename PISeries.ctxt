@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PISeries
+comment1.params=
+comment1.target=int\ takeN()
+comment2.params=
+comment2.target=double\ nInit()
+comment3.params=
+comment3.target=double\ nIncrease()
+comment4.params=
+comment4.target=boolean\ diff()
+comment5.params=check
+comment5.target=void\ main(boolean)
+numComments=6

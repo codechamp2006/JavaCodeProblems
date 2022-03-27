@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ArmstrongCheck
+comment1.params=num
+comment1.target=boolean\ checkArmstrong(int)
+numComments=2
